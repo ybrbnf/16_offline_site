@@ -1,7 +1,7 @@
-# New Site Template
+# Bootstrap Jumbotron Template
 
-[TODO. There will be project description]
+It's just a template, which you can use anywhere. Internet connection isn't necessary.
 
-# Project Goals
+# How To Use It
 
-The code is written for educational purposes. Training course for web-developers - [DEVMAN.org](https://devman.org)
+It's ready to work. Just run `index.html`
